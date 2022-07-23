@@ -6,6 +6,12 @@
 
 -- Services
 
+--[[
+
+This scipt handles the backend and events for attack, remote detections, and module class importing.
+
+]]
+
 
 local self = {}
 
