@@ -4,7 +4,7 @@
 
 ## About Me:
 
-- 👋 Hi, I’m Remiel, a professional scripter and developer on roblox.
+- 👋 Hi, I’m Remiel, a professional scripter and developer initially on the Roblox platform.
 - 📫 How to reach me: Discord - Rem#0030
 
 My Website Portfolio (With Videos): https://rembuckbuisness.wixsite.com/remportfolio/dno
@@ -12,4 +12,5 @@ My Website Portfolio (With Videos): https://rembuckbuisness.wixsite.com/remportf
 Little Note:
   Hello, I have worked with countless clients, groups, start-ups, and companies, and my #1 goal is to leave them satisfied. I am currently managing two start-ups with an audience surpassing 30,000. I mainly work as a backend lead developer for a game. I handle everything scripters do, I make frameworks, data handling, connections, and systematics for the game. I teach my scripters to *work* with my framework, regardless of status. Please reach my discord for further discussion!
 
-## Here are a few of my previous projects and works for display:
+My Open Source:
+Priority Engine: https://devforum.roblox.com/t/priorityengine-simple-roblox-modular-framework/2840075
